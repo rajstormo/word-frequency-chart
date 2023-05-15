@@ -64,3 +64,6 @@ This component was built using the following libraries:
 - [react-csv](https://www.npmjs.com/package/react-csv)
 - [React Router](https://reactrouter.com/en/main)
 
+## Deployed on Netlify
+**https://word-frequency-chart.netlify.app/**
+
